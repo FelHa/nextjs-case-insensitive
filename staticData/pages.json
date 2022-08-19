@@ -1,0 +1,6 @@
+{
+  "pages": [
+    { "slug": "foo", "data": "123" },
+    { "slug": "bar", "data": "456" }
+  ]
+}
